@@ -136,3 +136,10 @@ input.small {
 	width: 50px;
 }
 
+p {
+	text-align: justify;
+}
+
+h4 {
+	text-align: center;
+}
