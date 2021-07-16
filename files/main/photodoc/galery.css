@@ -14,13 +14,18 @@
 /*    margin: 0;*/
 /*}*/
 img {
-    alignment: center;
     width: 300px;
     height: 200px;
     object-fit: contain;
     padding: 5px;
     border: 8px solid #999999;
     background-color: #e6e6e6;
+}
+
+.imgcenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /*.gallery_preview:hover {*/
